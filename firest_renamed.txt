@@ -1,0 +1,11 @@
+This is example for git.
+
+I made second change
+
+I made third change.
+
+change by me.
+
+this is changed now.
+
+add stuff after adding into git ignore
